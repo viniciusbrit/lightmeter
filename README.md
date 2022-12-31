@@ -1,5 +1,5 @@
 # lightmeter
-An open hardwarelight meter designed for analog photography based on a BH1751 ambient light sensor running off of an ATMega328P microcontroller.
+An open hardware light meter designed for analog photography based on a BH1751 ambient light sensor running off of an ATMega328P microcontroller.
 
 ### Current Iteration: Prototype 0.2 [Development Started]
 <img src="https://imgur.com/pm2ZVXc.png" width=40% height=40%>
