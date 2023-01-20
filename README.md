@@ -18,7 +18,7 @@ Image of prototype 1.
   > Decided on the ATMega328P-AU due to it fitting my requirements. This might not be in future iterations as this chip is quite expensive for it's capabilities, however I happen to have just about 9 of these, so yeah... In the future, I plan to design a RP2040 version in the same form factor.
 - [x] Find *Easily Viewable Under Heavy Sunlight* Screen.
   > Decided on the Nokia 5110 instead of an 128x64 OLED because of a better viewing experience under heavy sunlight.
-- [ ] Build Prototype.
+- [ ] Design PCB.
 - [ ] Write Full Firmware.
 
 ### Licenses
