@@ -1,7 +1,7 @@
 # lightmeter
 An open hardware light meter designed for analog photography based on a BH1750 ambient light sensor running off of an ATMega328P microcontroller.
 
-* Development has stopped, this project is dead.
+* Development stopped Jan 23, 2023. This project is dead.
 
 ### Current Iteration: Revision 1
 <img src="https://imgur.com/pm2ZVXc.png" width=40% height=40%>
